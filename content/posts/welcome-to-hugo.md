@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Welcome to Hugo!"
+title = "Welcome to Hugo copy!"
 
 +++
 You’ll find this post in your `content/posts` directory.
